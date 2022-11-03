@@ -1,0 +1,6 @@
+Andrzej, Kowalski, +48123321123, Kraków, Kwiatowa, 02-342
+Zenek, Nowak, +48239341222, Warszawa, Spokojna 8, 02-432
+Mariolka, Grzegżółka, +34666777888, Poznań, Kosmiczna, 32-423
+Barbara, Nowacka, +23544222333, Łódź, Piotrowska, 93-423
+Paweł, Zakrzewski, +234234234, Sopot, Warszawska, 03-234
+
